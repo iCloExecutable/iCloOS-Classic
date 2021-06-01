@@ -1,2 +1,3 @@
-# icloos-files
-iclo operating system files for setup.
+# iCloOS-Classic
+Old client of iCloOS that we can recover
+
